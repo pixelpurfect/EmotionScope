@@ -1,0 +1,13 @@
+{
+  "happy": 2,
+  "joy": 3,
+  "excited": 3,
+  "love": 3,
+  "sad": -2,
+  "angry": -3,
+  "hate": -3,
+  "anxious": -2,
+  "calm": 1,
+  "peaceful": 2,
+  "lonely": -2
+}
